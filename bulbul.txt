@@ -1,1 +1,2 @@
 hello, i am written some code to test my knowledge on git hub
+this is a second line i am adding to check weather commit command is workig on not
